@@ -8,6 +8,11 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 npx create-expo-app -e with-router
 ```
 
+or
+
+Install Expo go app in your android device and enter this url - 
+#exp://exp.host/@shreyansh_20/Rozgaar?release-channel=default
+
 ## 📝 Notes
 
 - [Expo Router: Docs](https://expo.github.io/router)
