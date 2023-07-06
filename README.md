@@ -17,3 +17,8 @@ Install Expo go app in your android device and enter this url -
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+
+## App Images
+![image](https://github.com/shreyanshTechz/Rozgaar/assets/85357239/babb9c08-a38c-4ec5-ac66-256100fed36b)
+![image](https://github.com/shreyanshTechz/Rozgaar/assets/85357239/12c692af-2232-43bc-9899-4158b5c26afc)
+![image](https://github.com/shreyanshTechz/Rozgaar/assets/85357239/63a3c6a1-dd0a-485e-9848-7d8730c70b58)
